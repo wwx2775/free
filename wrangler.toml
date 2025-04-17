@@ -1,5 +1,2 @@
 name = "free"
 account_id = "wwx2775@163.com"
-
-[assets]
-directory = "./dist"
